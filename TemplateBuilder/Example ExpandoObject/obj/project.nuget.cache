@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6rcFeECZXWf2fIZB/s8H7ZhNtPLxkWKXVmiKSm9623EuyosoRPkqZqIgPyQ3io1eM0JJiggwokddRToftbMBA==",
+  "success": true,
+  "projectFilePath": "Y:\\_Circum\\Noordwest Ziekenhuis Alkmaar\\C#\\Sandbox\\TemplateBuilder\\Example ExpandoObject\\Example ExpandoObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.5\\microsoft.netcore.app.host.win-arm64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

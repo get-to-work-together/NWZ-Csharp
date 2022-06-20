@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c140c98-dc63-48a5-a82a-250fc830e5ac": {
+      "ProjectGuid": "3c140c98-dc63-48a5-a82a-250fc830e5ac",
+      "DisplayName": "TemplateBuilderConsole",
+      "ColorIndex": 0
+    },
+    "a86697af-544b-46eb-a422-646e46c94d2a": {
+      "ProjectGuid": "a86697af-544b-46eb-a422-646e46c94d2a",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

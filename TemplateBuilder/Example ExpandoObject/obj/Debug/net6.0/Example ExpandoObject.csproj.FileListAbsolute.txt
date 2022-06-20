@@ -1,0 +1,15 @@
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.csproj.AssemblyReference.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.GeneratedMSBuildEditorConfig.editorconfig
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.AssemblyInfoInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.AssemblyInfo.cs
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.csproj.CoreCompileInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\Example ExpandoObject.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\Example ExpandoObject.deps.json
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\Example ExpandoObject.runtimeconfig.json
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\Example ExpandoObject.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\ref\Example ExpandoObject.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\bin\Debug\net6.0\Example ExpandoObject.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\ref\Example ExpandoObject.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\Example ExpandoObject\obj\Debug\net6.0\Example ExpandoObject.genruntimeconfig.cache

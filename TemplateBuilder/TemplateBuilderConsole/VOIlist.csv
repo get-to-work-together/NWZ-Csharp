@@ -1,0 +1,16 @@
+name;shrinkmargin;isoconstraint;isoeffect;thresholddose;type
+01.PTV sd;;61.37;0;1;qp
+01.PTV sd;;0.25;2;1;o_q
+03.PTV prim;01.PTV sd,0;54.87;0;1;qp
+03.PTV prim;01.PTV sd,2;0.25;0;60.09;o_q
+03.PTV prim;01.PTV sd,0;0.5;0;61.37;o_q
+06.Rectum;;54;0;1;se
+06.Rectum;;45;0;1;se
+06.Rectum;;90;0;1;pa
+07.Blaas;01.PTV sd,0;0.02;0;61.37;o_q
+07.Blaas;;25;0;1;se
+Outline;01.PTV sd,3|0.3PTV prim,0;0.1;0;54.87;o_q
+Outline;01.PTV sd,6|0.3PTV prim,3;0.15;0;49.38;o_q
+Outline;01.PTV sd,9|0.3PTV prim,6;0.2;0;43.896;o_q
+Outline;;0.2;0;37.56;o_q
+Outline;01.PTV sd,24|0.3PTV prim,24;0.25;0;28.89;o_q 

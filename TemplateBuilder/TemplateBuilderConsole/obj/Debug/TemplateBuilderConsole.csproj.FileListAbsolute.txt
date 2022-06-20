@@ -1,0 +1,16 @@
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.exe.config
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.AssemblyReference.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.SuggestedBindingRedirects.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.CoreCompileInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.pdb
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.AssemblyReference.cache
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.SuggestedBindingRedirects.cache
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.csproj.CoreCompileInputs.cache
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.exe.config
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.exe
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\bin\Debug\TemplateBuilderConsole.pdb
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.exe
+Y:\_Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\TemplateBuilder\TemplateBuilderConsole\obj\Debug\TemplateBuilderConsole.pdb
