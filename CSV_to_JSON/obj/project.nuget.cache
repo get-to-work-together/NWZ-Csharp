@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIZZhZSy2e/3BpAJ/fqGWTaJV06PeoevLIXK6waieaVrykAeaWqNl2pUPKNK0uEJnVhN2xv/ouypbZ0UETyEBw==",
+  "success": true,
+  "projectFilePath": "Y:\\!! Circum\\Noordwest Ziekenhuis Alkmaar\\C#\\Sandbox\\CSV_to_JSON\\CSV_to_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

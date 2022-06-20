@@ -1,0 +1,232 @@
+﻿<Window x:Class="Names.MainWindow"
+        x:Name="MyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Names"
+        mc:Ignorable="d"
+        Title="Names" Height="600" Width="800"
+        SizeChanged="MainWindow_SizeChanged"
+        >
+
+
+
+
+    <Window.Resources >
+
+        <!--style voor okColor-->
+        <Style TargetType="{x:Type Label}" x:Key="labelColorStyle">
+            <Setter Property="Margin" Value="0 5 5 0"/>
+            <Setter Property="Content" Value=" "/>
+            <Setter Property="BorderBrush" Value="LightGray"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Background" Value="Orange"/>
+        </Style>
+
+
+
+        <Style TargetType="{x:Type Control}" x:Key="baseStyle">
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Margin" Value="0 5 5 0"/>
+        </Style>
+
+        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource baseStyle}"/>
+        <Style TargetType="{x:Type ComboBox}" BasedOn="{StaticResource baseStyle}">
+            <Setter Property="Width" Value="75"/>
+        </Style>
+        <Style TargetType="{x:Type ListBox}" BasedOn="{StaticResource baseStyle}"/>
+        <Style TargetType="{x:Type Label}" BasedOn="{StaticResource baseStyle}">
+            <Setter Property="Width" Value="130"/>
+        </Style>
+
+
+        <Style TargetType="{x:Type Label}" x:Key="labelSubSchrift" >
+
+            <Setter Property="Margin" Value="0 5 5 0"/>
+            <Setter Property="Width" Value="75"/>
+            <Setter Property="FontSize" Value="10"/>
+        </Style>
+
+                <!-- style voor radiobutton-->
+                <Style  x:Key="RadioButtonAsButton" TargetType="{x:Type RadioButton}" >
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate>
+                                <ToggleButton Content="{Binding Path=(Content), RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type RadioButton}}}"
+                              IsChecked="{Binding Path=(IsChecked), RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type RadioButton}}}"/>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Setter Property="FontSize" Value="15"/>
+                    <Setter Property="Margin" Value="0 5 5 0"/>
+                    <Setter Property="Width" Value="75"/>
+                    <!--<Setter Property="x:Name" Value="myRadioButton"/>-->
+                </Style>
+
+
+                <!--Plansoort groupname style basedon radiobuttonasbutton-->
+                <Style  x:Key="PSRadioButtonAsButton"  TargetType="{x:Type RadioButton}" 
+                BasedOn="{StaticResource RadioButtonAsButton}">
+                    <Setter Property="GroupName" Value="PlanSoort"/>
+                    <!--<Setter Property="Checked" Value="PlanSoort_Checked"/>-->
+                </Style>
+
+                <!--Klieren style groupname style basedon radiobuttonasbutton-->
+                <Style  x:Key="KlierenRadioButtonAsButton"  TargetType="{x:Type RadioButton}" 
+                BasedOn="{StaticResource RadioButtonAsButton}">
+                    <Setter Property="GroupName" Value="Klieren"/>
+                </Style>
+
+                <!--Stereo style groupname style basedon radiobuttonasbutton-->
+                <Style  x:Key="StereoRadioButtonAsButton"  TargetType="{x:Type RadioButton}" 
+                BasedOn="{StaticResource RadioButtonAsButton}">
+                    <Setter Property="GroupName" Value="Stereo"/>
+                </Style>
+
+                <!--Breathhold style groupname style basedon radiobuttonasbutton-->
+                <Style  x:Key="BreathholdRadioButtonAsButton"  TargetType="{x:Type RadioButton}" 
+                BasedOn="{StaticResource RadioButtonAsButton}">
+                    <Setter Property="GroupName" Value="Breathold"/>
+                </Style>
+
+                <!--LR style groupname style basedon radiobuttonasbutton-->
+                <Style  x:Key="LRRadioButtonAsButton"  TargetType="{x:Type RadioButton}" 
+                BasedOn="{StaticResource RadioButtonAsButton}">
+                    <Setter Property="GroupName" Value="LR"/>
+                </Style>
+
+    </Window.Resources>
+
+    <Canvas x:Name="myCanvas" >
+        <Border Padding="10">
+
+            <StackPanel Orientation="Vertical" >
+
+                <!--MQCourse-->
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorMQCourse"  Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="MQCourse" />
+                    <ComboBox Loaded="MQCourse_Loaded" SelectionChanged="MQCourse_SelectionChanged" />
+                </StackPanel>
+
+
+
+                <!--Plan Soort-->
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorPlanSoort"  Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="Plan Soort"/>
+                    <RadioButton Checked="PlanSoort_Checked" Content="P"   Style="{StaticResource PSRadioButtonAsButton}"/>
+                    <RadioButton Checked="PlanSoort_Checked" Content="S"   Style="{StaticResource PSRadioButtonAsButton}" />
+                    <RadioButton Checked="PlanSoort_Checked" Content="M"   Style="{StaticResource PSRadioButtonAsButton}" />
+                    <RadioButton Checked="PlanSoort_Checked" Content="V"   Style="{StaticResource PSRadioButtonAsButton}" />
+                    <RadioButton Checked="PlanSoort_Checked" Content="L"   Style="{StaticResource PSRadioButtonAsButton}" />
+                    <RadioButton Checked="PlanSoort_Checked" Content="O"   Style="{StaticResource PSRadioButtonAsButton}" />
+                    <RadioButton Checked="PlanSoort_Checked" Content="B"   Style="{StaticResource PSRadioButtonAsButton}" />
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label Width="150" Margin="0 5 5 0"  />
+                    <Label Content="Primair" Style="{StaticResource labelSubSchrift}"/>
+                    <Label Content="Surdo" Style="{StaticResource labelSubSchrift}" />
+                    <Label Content="siMultaan(SIB)" Style="{StaticResource labelSubSchrift}"  />
+                    <Label Content="V-sim" Style="{StaticResource labelSubSchrift}" />
+                    <Label Content="Library" Style="{StaticResource labelSubSchrift}" />
+                    <Label Content="Orthovolt"  Style="{StaticResource labelSubSchrift}"/>
+                    <Label  Content="Brachy"  Style="{StaticResource labelSubSchrift}" />
+
+                </StackPanel>
+
+                <!--PlanNummer-->
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorPlanNummer"  Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="PlanNummer" />
+                    <ComboBox Loaded="PlanNummer_Loaded" SelectionChanged="PlanNummer_SelectionChanged"/>
+                </StackPanel>
+
+
+
+
+                <!--Doel-->
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorDoel"   Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="Doel" />
+                    <Grid Margin="0 5 5 0">
+                        <Grid.ColumnDefinitions >
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <ListBox x:Name="listBox1" Grid.Column="0" ItemsSource="{Binding TestItems, ElementName=MyWindow}"   
+                          Margin="0 5 5 0" Padding="2"/>
+
+
+                        <ListBox x:Name="listBox2" Grid.Column="1"  SelectionChanged="Doel_SelectionChanged" ItemsSource="{Binding SelectedItem.Test2Items, ElementName=listBox1}"   
+                          Margin="0 5 5 0" Padding="2"/>
+
+                        <!--SelectionChanged="Doel_SelectionChanged"-->
+
+
+                    </Grid>
+                </StackPanel>
+
+
+
+                <!--Klieren-->
+
+
+                <StackPanel Orientation="Horizontal" >
+                    <Label  x:Name="colorKlieren"  Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="+Klieren" />
+                    <!--PS-->
+                    <RadioButton Checked="Klieren_Checked" Content="Nee" Style="{StaticResource KlierenRadioButtonAsButton}"   />
+                    <RadioButton Checked="Klieren_Checked" Content="Ja" Style="{StaticResource KlierenRadioButtonAsButton}" />
+
+                </StackPanel>
+
+                <!--Stereo-->
+
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorStereo"   Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="+Stereo" />
+
+                    <RadioButton Checked="Stereo_Checked" Content="Nee" Style="{StaticResource StereoRadioButtonAsButton}"   />
+                    <RadioButton Checked="Stereo_Checked" Content="Ja" Style="{StaticResource StereoRadioButtonAsButton}" />
+                    <RadioButton Checked="Stereo_Checked" Content="HD" Style="{StaticResource StereoRadioButtonAsButton}" />
+
+                </StackPanel>
+
+                <!--Breathhold-->
+
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorBreathhold"   Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="+Breathold" />
+
+                    <RadioButton Checked="Breathold_Checked" Content="Nee" Style="{StaticResource BreathholdRadioButtonAsButton}"   />
+                    <RadioButton Checked="Breathold_Checked" Content="Ja" Style="{StaticResource BreathholdRadioButtonAsButton}" />
+
+                </StackPanel>
+
+                <!--Links Rechts Bdz-->
+
+                <StackPanel Orientation="Horizontal">
+                    <Label  x:Name="colorLR"   Style="{StaticResource labelColorStyle}"/>
+                    <Label Content="+Links/Rechts/Bdz" />
+                    <!--PS-->
+                    <RadioButton Checked="LR_Checked" Content="n.v.t." Style="{StaticResource LRRadioButtonAsButton}"   />
+                    <RadioButton Checked="LR_Checked" Content="L" Style="{StaticResource LRRadioButtonAsButton}" />
+                    <RadioButton Checked="LR_Checked" Content="R" Style="{StaticResource LRRadioButtonAsButton}" />
+                    <RadioButton Checked="LR_Checked" Content="LR" Style="{StaticResource LRRadioButtonAsButton}"   />
+
+                </StackPanel>
+
+                <TextBlock x:Name="choiseTextBlock" Margin="5" FontSize="30" FontWeight="Bold"/>
+
+            </StackPanel>
+        </Border>
+
+    </Canvas>
+
+
+</Window>

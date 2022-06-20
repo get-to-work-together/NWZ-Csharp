@@ -1,0 +1,21 @@
+Voorwaarde;Target;Color;Source;Avoid Interior;Avoid Exterior;Uniform margin;Right;Left;Anterior;Posterior;Superior;Inferior;RoiExpandControl;Verwijderen Einde
+"SIB
+Lnn";08.Ring sd;blue;01.PTV sd;;;0,5;;;;;;;Create Ring ROI;
+;Ring sd caud;lightblue;08.Ring sd;"03.PTV prim
+06.Rectum";;;;;;;;;Contract;
+"SIB
+Lnn";04.PTV prim-sd;;03.PTV prim;01.PTV sd;;;;;;;;;Contract;
+;09.Ring prim;;"03.PTV prim
+08.Ring sd";;;;2;2;1.5;1.5;1;1;Create Ring ROI;
+Lnn;12.PTV totaal;purple;"01.PTV sd
+03.PTV prim
+05.PTV Lnn";;;;;;;;;;Expand;
+Lnn;00_12.PTV totaal_05;grey;12.PTV totaal;;;0,5;;;;;;;Expand;ja
+Lnn;05_12.PTV totaal_20;steelblue;00_12.PTV totaal_05;;;2;;;;;;;Create Ring ROI;
+Lnn;BO+BL-PTV0.5;brown;"06.Bowelbag
+07.Blaas";00_12.PTV totaal_05;;0;;;;;;;Expand;
+Lnn;PTVprim+sd0.7;grey;"01.PTV sd
+03.PTV prim";;;0,7;;;;;;;Expand;
+Lnn;PTVLnn-PTVprim+sd0.7;orange;05.PTV Lnn;PTVprim+sd0.7;;0;;;;;;;Expand;
+Loge;12.Rectum Buiten;olive;06.Rectum;03.PTV prim;;;;;;;;;Expand;
+Loge;13.Blaas Buiten;yellow;07.Blaas;03.PTV prim;;;;;;;;;Expand;

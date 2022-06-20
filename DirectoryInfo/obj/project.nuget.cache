@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGt3GuzJ+MA2QR6KrXS39+tumAa2AUCesJs2VbOGSBPbzkIN+CQ35Zvl28CaZvALu+C1ddG3iMhnwwaSTf/4GA==",
+  "success": true,
+  "projectFilePath": "Y:\\_Circum\\Noordwest Ziekenhuis Alkmaar\\C#\\Sandbox\\DirectoryInfo\\DirectoryInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.5\\microsoft.netcore.app.host.win-arm64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

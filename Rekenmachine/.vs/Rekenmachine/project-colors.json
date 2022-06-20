@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcf3e28a-1d5d-4799-ab8f-7d1d6e30dbde": {
+      "ProjectGuid": "dcf3e28a-1d5d-4799-ab8f-7d1d6e30dbde",
+      "DisplayName": "Rekenmachine",
+      "ColorIndex": 0
+    },
+    "6425421d-3f0d-4dca-ac1e-435c5ca35e9b": {
+      "ProjectGuid": "6425421d-3f0d-4dca-ac1e-435c5ca35e9b",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

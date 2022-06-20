@@ -1,0 +1,16 @@
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.deps.json
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.dll
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.pdb
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.csprojAssemblyReference.cache
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.AssemblyInfoInputs.cache
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.AssemblyInfo.cs
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.dll
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.pdb
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.deps.json
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.dll
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\CSVtoJSONLibrary.pdb
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.csprojAssemblyReference.cache
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.AssemblyInfoInputs.cache
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.AssemblyInfo.cs
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.dll
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\SV\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\CSVtoJSONLibrary.pdb

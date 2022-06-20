@@ -1,0 +1,8 @@
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\zCSVtoJSONLibrary.csprojAssemblyReference.cache
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\zCSVtoJSONLibrary.AssemblyInfoInputs.cache
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\zCSVtoJSONLibrary.AssemblyInfo.cs
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\zCSVtoJSONLibrary.deps.json
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\zCSVtoJSONLibrary.dll
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\bin\Debug\netstandard2.0\zCSVtoJSONLibrary.pdb
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\zCSVtoJSONLibrary.dll
+C:\Users\0876805\source\repos\FirstProgram\zCSVtoJSONLibrary\obj\Debug\netstandard2.0\zCSVtoJSONLibrary.pdb

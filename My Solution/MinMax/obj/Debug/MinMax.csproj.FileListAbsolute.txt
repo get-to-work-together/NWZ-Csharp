@@ -1,0 +1,8 @@
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\bin\Debug\MinMax.exe.config
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\bin\Debug\MinMax.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\bin\Debug\MinMax.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\obj\Debug\MinMax.csproj.SuggestedBindingRedirects.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\obj\Debug\MinMax.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\MinMax\obj\Debug\MinMax.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pocvGRDgQ0yv8B+Iq29ti6oKvmouH+HrOs4jZr72lzqO1RCUvzGbIbfay3mJx2NuUbOblZHl4TiTWI9Z9+jBUg==",
+  "success": true,
+  "projectFilePath": "Y:\\!! Circum\\Noordwest Ziekenhuis Alkmaar\\C#\\Sandbox\\My Solution\\zCSVtoJSONLibrary\\CSVtoJSONLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

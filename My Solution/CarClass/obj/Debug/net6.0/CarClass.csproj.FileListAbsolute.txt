@@ -1,0 +1,15 @@
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\CarClass.exe
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\CarClass.deps.json
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\CarClass.runtimeconfig.json
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\CarClass.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\ref\CarClass.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\bin\Debug\net6.0\CarClass.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.GeneratedMSBuildEditorConfig.editorconfig
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.AssemblyInfoInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.AssemblyInfo.cs
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.csproj.CoreCompileInputs.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\ref\CarClass.dll
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.pdb
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.genruntimeconfig.cache
+Y:\!! Circum\Noordwest Ziekenhuis Alkmaar\C#\Sandbox\My Solution\CarClass\obj\Debug\net6.0\CarClass.csproj.AssemblyReference.cache

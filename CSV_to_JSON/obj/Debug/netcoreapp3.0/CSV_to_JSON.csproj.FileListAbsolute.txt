@@ -1,0 +1,11 @@
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\obj\Debug\netcoreapp3.0\CSV_to_JSON.csprojAssemblyReference.cache
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\obj\Debug\netcoreapp3.0\CSV_to_JSON.AssemblyInfoInputs.cache
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\obj\Debug\netcoreapp3.0\CSV_to_JSON.AssemblyInfo.cs
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.exe
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.deps.json
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.runtimeconfig.json
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.runtimeconfig.dev.json
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.dll
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\bin\Debug\netcoreapp3.0\CSV_to_JSON.pdb
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\obj\Debug\netcoreapp3.0\CSV_to_JSON.dll
+S:\Radiotherapie\Applications\Ontwikkeling_Git\CS - Training\CSV_to_JSON\obj\Debug\netcoreapp3.0\CSV_to_JSON.pdb
